@@ -1,5 +1,5 @@
 /**
- * copy from lichen： https://github.com/frontlich/
+ * copy from lichen： https://github.com/frontlich/enum2map
  *
  */
 
